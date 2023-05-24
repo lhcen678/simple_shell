@@ -1,7 +1,7 @@
 /*
  * File: main.c
  * Auth: Lahcen Zemrani
- *       Amadou Ali Bah    
+ * Amadou Ali Bah
  */
 
 #include "shell.h"
