@@ -3,8 +3,8 @@
 
 /*
  * File: shell.h
- * Auth: Lahcen Zemrani 
- *       Amadou Ali Bah
+ * Auth: Lahcen Zemrani
+ * 	Amadou Ali Bah
  */
 
 #include <fcntl.h>
